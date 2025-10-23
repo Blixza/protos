@@ -1,4 +1,4 @@
-module protos
+module github.com/Blixza/protos
 
 go 1.25.1
 
